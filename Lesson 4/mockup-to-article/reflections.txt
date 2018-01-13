@@ -7,3 +7,6 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
+
+
+I had previous experience with HTML from decades ago so these first few lessons have been familar but reassuring.  It's been building my confidence that I can build upon what I know and continue to learn css and javascript and more. I'm excited to develop skills that will allow me to make a webpage that looks like it's from 2018 and not 1999. And while it has been familar that isn't to say, I haven't needed to use the documentation to figureout the correct tags. I have also been using these first few lessons to build habits like learning Atom and things that will be neccessary in the future for success like learning GIThub and commits.
