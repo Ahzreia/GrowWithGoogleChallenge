@@ -1,65 +1,67 @@
-/* CSS for Animal Traging Cards Project*/
+/* CSS for Animal Trading Cards Project*/
 @import url('https://fonts.googleapis.com/css?family=Philosopher');
 
 /* Card */
-
-.card {
-    display: block;
-    background-color: #838585;
-    width: 300px;
-    padding: 13px 13px 13px 13px;
-    border: 2px solid #ff6347;
-    border-radius: 15px;
-    box-shadow: 3px 3px #2d2e2e;
-    margin: 0 auto;
-}
+    .card {
+        display: block;
+        background-color: #838585;
+        width: 303px;
+        padding: 13px 13px 13px 13px;
+        border: 2px solid #ff6347;
+        border-radius: 15px;
+        box-shadow: 3px 3px #2d2e2e;
+        margin: 0 auto;
+    }
 
 /* Card Title*/
-h3 {
-    font:20px 'Philosopher', sans-serif;
-    padding-left: 5px;
-    font-variant:small-caps;
-    font-weight: bolder;
-    color:#ff6347;
-    text-shadow: 1px 1px #2d2e2e;
-    margin: 5px auto;
-}
+    h3 {
+        font:20px 'Philosopher', sans-serif;
+        padding-left: 5px;
+        font-variant:small-caps;
+        font-weight: bolder;
+        color:#ff6347;
+        text-shadow: 1px 1px #2d2e2e;
+        margin: 5px auto;
+    }
 /* Card Photo*/
-img {
-   width: 298px;
-   border:1.5px solid #ff6347;
-   border-radius: 5px;
-   margin: 0px;
-}
+    img {
+       width: 300px;
+       border:1.5px solid #ff6347;
+       border-radius: 5px;
+       margin: 0px;
+    }
 
-figure {
-   margin: 0px;
-}
+    figure {
+       margin: 0px;
+    }
 
 /* Card Info Square*/
-.card_info{
-  background-color: #dce0e0;
-  border: 1px solid #ff6347;
-  margin: 0 auto;
-  font:10px 'Philosopher', sans-serif;
-}
+    .card_info{
+      background-color: #dce0e0;
+      border: 1.5px solid #ff6347;
+      border-radius: 5px;
+      margin: 0 auto;
+      font:10px 'Philosopher', sans-serif;
+    }
 
 /* Card Fact-Quote*/
-.card_fact{
-    padding: 5px 5px 5px 5px;
-    font-style:italic;
-}
+    .card_fact{
+        padding: 5px 5px 5px 5px;
+        font-style:italic;
+    }
 /* Card Stats*/
+    ul{
+      list-style-type: none;
+    }
 
-
-span {
-        font:12px 'Philosopher', sans-serif;
-        font-variant:small-caps;
-        font-weight: bold;
-        color:#ff6347;
-        text-shadow: .5px .5px #2d2e2e;
+    span {
+            font:12px 'Philosopher', sans-serif;
+            font-variant:small-caps;
+            font-weight: bold;
+            color:#ff6347;
+            text-shadow: .5px .5px #2d2e2e;
 }
 /* Card Description Text*/
-.card_Description_text{
-    padding: 5px 5px 5px 5px;
-}
+    .card_Description_text{
+        padding: 5px 5px 5px 5px;
+    }
