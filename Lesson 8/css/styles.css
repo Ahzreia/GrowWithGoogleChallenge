@@ -41,21 +41,25 @@ figure {
   background-color: #dce0e0;
   border: 1px solid #ff6347;
   margin: 0 auto;
-  font:12px 'Philosopher', sans-serif;
+  font:10px 'Philosopher', sans-serif;
 }
 
 /* Card Fact-Quote*/
 .card_fact{
     padding: 5px 5px 5px 5px;
-
+    font-style:italic;
 }
 /* Card Stats*/
 
 
 span {
+        font:12px 'Philosopher', sans-serif;
         font-variant:small-caps;
         font-weight: bold;
         color:#ff6347;
         text-shadow: .5px .5px #2d2e2e;
 }
 /* Card Description Text*/
+.card_Description_text{
+    padding: 5px 5px 5px 5px;
+}
